@@ -1,0 +1,144 @@
+{
+  "general": {
+    "name": "Sayem Molla",
+    "headline": "MERN Stack Developer | Building Scalable Web Apps",
+    "about": [
+      "Hey there! 👋",
+      "I'm a passionate MERN Stack Developer with a strong background in building scalable and efficient web applications. With expertise in MongoDB, Express.js, React, and Node.js, I specialize in crafting dynamic and high-performance digital solutions.",
+      "Beyond coding, I love exploring new technologies, optimizing performance, and solving complex problems. In my free time, I enjoy contributing to open-source projects, learning about the latest web trends, and sharing knowledge with the developer community."
+    ],
+    "socials": {
+      "email": "developersayem012@mail.com",
+      "linkedin": "https://github.com/developersayem",
+      "github": "https://www.linkedin.com/in/sayem-molla/"
+    }
+  },
+  "experiences": [
+    {
+      "title": "MERN Stack Developer",
+      "company": "Craft Funnel",
+      "href": "https://craftfunnel.com/",
+      "startDate": "08/2024",
+      "endDate": "03/2025",
+      "description": "As a MERN Stack Developer at Craft Funnel, I worked on building and optimizing web applications using MongoDB, Express.js, React, and Node.js. I was responsible for developing scalable backend APIs, integrating third-party services, and enhancing frontend user experiences. My role also involved database management, performance optimization, and collaborating with cross-functional teams to deliver high-quality software solutions.",
+      "logo": "https://i.ibb.co.com/HpCkdD65/Screenshot-2025-03-30-at-3-48-59-AM.png",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express.js"]
+    },
+    {
+      "title": "MERN Stack Developer",
+      "company": "Freelancer",
+      "href": "",
+      "startDate": "10/2023",
+      "endDate": "06/2024",
+      "description": "As a freelancer MERN stack developer, I built and optimized full-stack web applications using MongoDB, Express.js, React, and Node.js. I collaborated with clients to develop scalable and user-friendly solutions, ensuring high performance and seamless user experiences. My work included API development, database management, and responsive UI design.",
+      "logo": "https://www.kindpng.com/picc/m/0-3478_freelancer-logo-freelancer-com-logo-png-transparent-png.png",
+      "skills": ["MongoDB", "Express.js", "React", "Node.js", "Next.js"]
+    }
+  ],
+  "courses": [
+    {
+      "subject": "Complete Web Development",
+      "degree": "MERN Stack Development",
+      "university": "Programming Hero",
+      "href": "https://www.programming-hero.com/",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": "This comprehensive program equipped me with the essential skills and knowledge to develop dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React, and Node.js). Throughout the course, I gained hands-on experience in building scalable web applications, mastering front-end and back-end development, and implementing RESTful APIs. The curriculum emphasized best practices in coding, version control with Git, and collaborative development, preparing me for real-world projects in the tech industry."
+    },
+    {
+      "subject": "Next Level Web Development",
+      "degree": "MERN Stack Development",
+      "university": "Programming Hero",
+      "href": "https://www.programming-hero.com/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "description": "In this advanced program, I deepened my expertise in web development by focusing on the MERN stack (MongoDB, Express.js, React, and Node.js) while integrating TypeScript for enhanced type safety and code quality. The course covered advanced topics such as server-side rendering with Next.js, and building scalable APIs. I also learned about best practices in application architecture, testing, and deployment strategies. This training equipped me with the skills to create robust and maintainable web applications, preparing me for complex challenges in the tech industry."
+    }
+  ],
+  "skills": [
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "React.js" },
+    { "name": "Next.js" },
+    { "name": "Node.js" },
+    { "name": "Express.js" },
+    { "name": "MongoDB" },
+    { "name": "JWT" },
+    { "name": "REST APIs" },
+    { "name": "Vite.js" },
+    { "name": "Shadcn UI" },
+    { "name": "Mongoose" },
+    { "name": "Zod" },
+    { "name": "Joi" },
+    { "name": "Tailwind CSS" },
+    { "name": "Firebase" },
+    { "name": "HTML & CSS" },
+    { "name": "Git & GitHub" }
+  ],
+  "projects": [
+    {
+      "name": "two-column-portfolio",
+      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
+      "framework": "next.js",
+      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
+      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "stars": "0",
+      "skills": [
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "React.js" },
+        { "name": "Next.js" },
+        { "name": "Node.js" },
+        { "name": "Express.js" }
+      ]
+    },
+    {
+      "name": "two-column-portfolio",
+      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
+      "framework": "next.js",
+      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
+      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "stars": "0",
+      "skills": [
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "React.js" },
+        { "name": "Next.js" },
+        { "name": "Node.js" },
+        { "name": "Express.js" }
+      ]
+    },
+    {
+      "name": "two-column-portfolio",
+      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
+      "framework": "next.js",
+      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
+      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "stars": "0",
+      "skills": [
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "React.js" },
+        { "name": "Next.js" },
+        { "name": "Node.js" },
+        { "name": "Express.js" }
+      ]
+    },
+    {
+      "name": "two-column-portfolio",
+      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
+      "framework": "next.js",
+      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
+      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "stars": "0",
+      "skills": [
+        { "name": "JavaScript" },
+        { "name": "TypeScript" },
+        { "name": "React.js" },
+        { "name": "Next.js" },
+        { "name": "Node.js" },
+        { "name": "Express.js" }
+      ]
+    }
+  ]
+}
