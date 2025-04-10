@@ -38,10 +38,10 @@ function ProjectItem(props) {
                         </Lens>
                         <span className="pt-2"> {props.description}</span>
                     </CardContent>
-                    <CardFooter className="p-3 grid grid-cols-3">
+                    <CardFooter className="px-3 grid grid-cols-3 gap-1">
                         {props.skills ? props.skills.map((skill) => (
-                            <div key={skill} className='bg-surface-400 px-2 rounded-full text-[8px] md:text-xs mr-2 mb-1'>
-                                {skill.name}
+                            <div key={skill} className='text-[#A196FF] px-2 rounded-full text-[8px] md:text-xs mr-2 mb-1'>
+                                {skill}
                             </div>
                         )) : ""}
                     </CardFooter>

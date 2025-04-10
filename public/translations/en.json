@@ -77,68 +77,22 @@
   ],
   "projects": [
     {
-      "name": "two-column-portfolio",
-      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
+      "name": "Dev Task",
+      "logo": "https://i.ibb.co.com/bRbzGVSQ/screencapture-localhost-3000-tasks-2025-04-03-21-40-58.png",
       "framework": "next.js",
-      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "description": "Dev Task App is a simple and efficient task management app for developers, helping to organize, track, and prioritize tasks effortlessly. 🚀",
+      "href": "https://github.com/developersayem/dev-task-app",
       "stars": "0",
-      "skills": [
-        { "name": "JavaScript" },
-        { "name": "TypeScript" },
-        { "name": "React.js" },
-        { "name": "Next.js" },
-        { "name": "Node.js" },
-        { "name": "Express.js" }
-      ]
+      "skills": ["TypeScript", "Next.js", "Node.js", "MongoDB", "Mongoose"]
     },
     {
-      "name": "two-column-portfolio",
-      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
-      "framework": "next.js",
-      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-      "href": "https://github.com/karlgrossmann/two-column-portfolio",
+      "name": "google-chat-bot",
+      "logo": "https://i.ibb.co.com/xK4QVb4N/chatbot.webp",
+      "framework": "express.js",
+      "description": "Google Chat Bot is a Node.js project that integrates OpenAI with Google Chat, enabling AI-powered interactions within chat conversations.🚀",
+      "href": "https://github.com/developersayem/google-chat-bot",
       "stars": "0",
-      "skills": [
-        { "name": "JavaScript" },
-        { "name": "TypeScript" },
-        { "name": "React.js" },
-        { "name": "Next.js" },
-        { "name": "Node.js" },
-        { "name": "Express.js" }
-      ]
-    },
-    {
-      "name": "two-column-portfolio",
-      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
-      "framework": "next.js",
-      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-      "href": "https://github.com/karlgrossmann/two-column-portfolio",
-      "stars": "0",
-      "skills": [
-        { "name": "JavaScript" },
-        { "name": "TypeScript" },
-        { "name": "React.js" },
-        { "name": "Next.js" },
-        { "name": "Node.js" },
-        { "name": "Express.js" }
-      ]
-    },
-    {
-      "name": "two-column-portfolio",
-      "logo": "https://imgs.search.brave.com/PTvlWO0g6zoYtl0NtrIdQAC74-1BjdGL7tAQEmSxunA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzY0/M2Q0NjIxNTZlZGEz/NjczMjE0YTI4Yy8x/NjgxNzM3MjkwMjY2/LTFZTVBFNFVBMDBN/NFpBT04yVTk4LzIw/MjItMDYtMDFfMDgt/MTAtNTQucG5n",
-      "framework": "next.js",
-      "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-      "href": "https://github.com/karlgrossmann/two-column-portfolio",
-      "stars": "0",
-      "skills": [
-        { "name": "JavaScript" },
-        { "name": "TypeScript" },
-        { "name": "React.js" },
-        { "name": "Next.js" },
-        { "name": "Node.js" },
-        { "name": "Express.js" }
-      ]
+      "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]
     }
   ]
 }

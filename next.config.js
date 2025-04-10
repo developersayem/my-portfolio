@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ["craftfunnel.com", "imgs.search.brave.com","i.ibb.co.com","www.kindpng.com"],
+      domains: ['i.ibb.co',"i.ibb.co.com","www.kindpng.com"],
     },
   };
   
