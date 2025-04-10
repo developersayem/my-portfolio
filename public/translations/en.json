@@ -95,19 +95,19 @@
       "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]
     },
     {
-      "name": "google-chat-bot",
+      "name": "twilio-report-app",
       "logo": "https://i.ibb.co.com/xK4QVb4N/chatbot.webp",
-      "framework": "express.js",
-      "description": "Google Chat Bot is a Node.js project that integrates OpenAI with Google Chat, enabling AI-powered interactions within chat conversations.🚀",
-      "href": "https://github.com/developersayem/google-chat-bot",
+      "framework": "next.js",
+      "description": "The Twilio Report App allows users to generate detailed cost reports for their Twilio accounts on a daily, weekly, and monthly basis. 🚀",
+      "href": "https://github.com/developersayem/twilio-report-app/tree/main",
       "stars": "0",
       "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]
     },
     {
-      "name": "google-chat-bot",
+      "name": "my-portfolio",
       "logo": "https://i.ibb.co.com/xK4QVb4N/chatbot.webp",
-      "framework": "express.js",
-      "description": "Google Chat Bot is a Node.js project that integrates OpenAI with Google Chat, enabling AI-powered interactions within chat conversations.🚀",
+      "framework": "next.js",
+      "description": "https://github.com/developersayem/my-portfolio",
       "href": "https://github.com/developersayem/google-chat-bot",
       "stars": "0",
       "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]

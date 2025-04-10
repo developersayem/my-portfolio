@@ -7,6 +7,7 @@ import Skills from "@/components/skills/skills";
 import Projects from '@/components/projects/projects';
 import Credits from '@/components/credits';
 import { promises as fs } from 'fs';
+import Reveal from '@/components/Reveal';
 
 export default async function Home() {
   const file = await fs.readFile(process.cwd() + '/public/translations/en.json', 'utf-8');
@@ -17,12 +18,12 @@ export default async function Home() {
       <div className="z-2 w-full max-w-5xl font-mono text-sm flex flex-col lg:flex-row justify-between">
         <Header data={data.general}></Header>
         <div className='lg:pl-[50%]'>
-          <About data={data.general}></About>
-          <Experiences data={data.experiences}></Experiences>
-          <Education data={data.courses}></Education>
-          <Skills data={data.skills}></Skills>
-          <Projects data={data.projects}></Projects>
-          <Credits data={data.general}></Credits>
+          <Reveal><About data={data.general} /></Reveal>
+          <Reveal delay={0.1}><Experiences data={data.experiences} /></Reveal>
+          <Reveal delay={0.2}><Education data={data.courses} /></Reveal>
+          <Reveal delay={0.3}><Skills data={data.skills} /></Reveal>
+          <Reveal delay={0.4}><Projects data={data.projects} /></Reveal>
+          <Reveal delay={0.5}><Credits data={data.general} /></Reveal>
         </div>
       </div>
     </main>

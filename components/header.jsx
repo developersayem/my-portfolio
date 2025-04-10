@@ -2,6 +2,7 @@ import React from "react";
 import Navigation from "./navigation";
 import Socials from "./socials";
 import { BoxReveal } from "./magicui/box-reveal";
+import AvatarCirclesCom from "./AvatarCirclesCom";
 
 const Header = (props) => {
     return (
@@ -14,6 +15,7 @@ const Header = (props) => {
                     <h2 className='text-surface-600 pt-2 text-base font-normal tracking-wider'>{props.data.headline}</h2>
                 </BoxReveal>
             </div>
+            <AvatarCirclesCom />
             <Navigation></Navigation>
             <Socials data={props.data.socials}></Socials>
         </div>
