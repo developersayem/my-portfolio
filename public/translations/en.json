@@ -80,7 +80,7 @@
       "name": "Dev Task",
       "logo": "https://i.ibb.co.com/bRbzGVSQ/screencapture-localhost-3000-tasks-2025-04-03-21-40-58.png",
       "framework": "next.js",
-      "description": "Dev Task App is a simple and efficient task management app for developers, helping to organize, track, and prioritize tasks effortlessly. 🚀",
+      "description": "Dev Task App is a simple and efficient task management app for developers, helping to organize, track, and prioritize tasks effortlessly.🚀",
       "href": "https://github.com/developersayem/dev-task-app",
       "stars": "0",
       "skills": ["TypeScript", "Next.js", "Node.js", "MongoDB", "Mongoose"]
@@ -98,7 +98,7 @@
       "name": "twilio-report-app",
       "logo": "https://i.ibb.co.com/xK4QVb4N/chatbot.webp",
       "framework": "next.js",
-      "description": "The Twilio Report App allows users to generate detailed cost reports for their Twilio accounts on a daily, weekly, and monthly basis. 🚀",
+      "description": "The Twilio Report App allows users to generate detailed cost reports for their Twilio accounts on a daily, weekly, and monthly basis.🚀",
       "href": "https://github.com/developersayem/twilio-report-app/tree/main",
       "stars": "0",
       "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]
@@ -107,8 +107,8 @@
       "name": "my-portfolio",
       "logo": "https://i.ibb.co.com/xK4QVb4N/chatbot.webp",
       "framework": "next.js",
-      "description": "https://github.com/developersayem/my-portfolio",
-      "href": "https://github.com/developersayem/google-chat-bot",
+      "description": "The My Portfolio website is a personal portfolio built with Next.js to showcase my skills, projects, and experience as a MERN stack web developer.🚀",
+      "href": "https://github.com/developersayem/my-portfolio",
       "stars": "0",
       "skills": ["JavaScript", "Node.js", "Express.js", "OpenAI"]
     }
