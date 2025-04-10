@@ -28,14 +28,14 @@ function ProjectItem(props) {
                         </CardDescription>
                     </CardHeader>
                     <CardContent className="w-full h-full p-3">
-                        <Lens
+                        {/* <Lens
                             zoomFactor={2}
                             lensSize={100}
                             isStatic={false}
                             ariaLabel="Zoom Area"
                         >
                             <Image src={props.logo} alt="Project Logo" width={1000} height={1000} className='object-contain object-top pt-2' />
-                        </Lens>
+                        </Lens> */}
                         <span className="pt-2"> {props.description}</span>
                     </CardContent>
                     <CardFooter className="px-3 grid grid-cols-3 gap-1">
