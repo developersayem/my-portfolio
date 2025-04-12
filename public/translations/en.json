@@ -77,11 +77,11 @@
   ],
   "projects": [
     {
-      "name": "Dev Task",
+      "name": "Tasksy",
       "logo": "https://i.ibb.co.com/bRbzGVSQ/screencapture-localhost-3000-tasks-2025-04-03-21-40-58.png",
       "framework": "next.js",
-      "description": "Dev Task App is a simple and efficient task management app for developers, helping to organize, track, and prioritize tasks effortlessly.🚀",
-      "href": "https://github.com/developersayem/dev-task-app",
+      "description": "Tasksy App is a simple and efficient project wise task management app for developers, helping to organize, track, and prioritize tasks effortlessly.🚀",
+      "href": "https://github.com/developersayem/tasksy-app",
       "stars": "0",
       "skills": [
         "TypeScript",
