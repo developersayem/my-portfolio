@@ -17,9 +17,11 @@ const Header = (props) => {
                 </BoxReveal>
             </div>
             {/* <AvatarCirclesCom /> */}
-            <Image src="/sayemmolla.jpg" alt="profile pic"
+            <Image src="/sayemmolla.jpg"
+                alt="profile pic"
                 width={300}
                 height={300}
+                loading="lazy"
                 className='w-fit h-fit rounded-md' />
 
             <Navigation></Navigation>
