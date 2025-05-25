@@ -16,13 +16,13 @@ const Header = (props) => {
                     <h2 className='text-surface-600 pt-2 text-base font-normal tracking-wider'>{props.data.headline}</h2>
                 </BoxReveal>
             </div>
-            {/* <AvatarCirclesCom /> */}
-            <Image src="/sayemmolla.jpg"
+            <AvatarCirclesCom />
+            {/* <Image src="/sayemmolla.jpg"
                 alt="profile pic"
-                width={300}
-                height={300}
+                width={150}
+                height={150}
                 loading="lazy"
-                className='w-fit h-fit rounded-md' />
+                className='w-fit h-fit rounded-md' /> */}
 
             <Navigation></Navigation>
             <Socials data={props.data.socials}></Socials>

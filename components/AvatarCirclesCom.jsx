@@ -27,7 +27,7 @@ const avatars = [
     //     profileUrl: github,
     // },
     {
-        imageUrl: "https://i.ibb.co.com/bRWR6942/sayemmolla.jpg",
+        imageUrl: "/sayemmolla.jpg",
         profileUrl: github,
     },
 ];
