@@ -37,7 +37,7 @@ const Navigation = () => {
             transition={{ duration: 0.5 }}
         >
 
-            <div id='navigation' className='flex flex-col md:py-10 font-medium tracking-widest'>
+            <div id='navigation' className='flex flex-col md:py-10 font-medium tracking-widest cursor-none'>
                 <NavItem active={activeSection === 'about' ? true : false} href='#about' num='01' name="ABOUT"></NavItem>
                 <NavItem active={activeSection === 'experiences' ? true : false} href='#experiences' num='02' name="EXPERIENCES"></NavItem>
                 <NavItem active={activeSection === 'education' ? true : false} href='#education' num='03' name="EDUCATION"></NavItem>

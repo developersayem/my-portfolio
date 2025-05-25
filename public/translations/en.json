@@ -15,13 +15,41 @@
   },
   "experiences": [
     {
+      "title": "MERN Stack Developer (Part-time)",
+      "company": "CyberLoom IT",
+      "href": "https://www.cyberloomittechnologies.com",
+      "startDate": "04/2025",
+      "endDate": "Present",
+      "description": "As a MERN Stack Developer at CyberLoom IT, I build scalable full-stack applications for local clients. My work includes developing authentication systems, integrating third-party APIs, optimizing backend performance, and creating reusable UI components using React and Next.js.",
+      "logo": "/cyberloomittechnologies.png",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "API Integration"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Pacedream INC",
+      "href": "https://craftfunnel.com/",
+      "startDate": "01/2025",
+      "endDate": "03/2025",
+      "description": "At PaceDream, I work as a Full Stack Developer, building scalable web applications with MongoDB, Express.js, React, and Node.js. I develop responsive UI components using Next.js, manage APIs and databases, and ensure smooth deployment on AWS, Vercel, or Digital Ocean. My role also involves authentication, performance optimization, and collaborating with designers and product teams to create seamless user experiences.",
+      "logo": "/Pacedream.jpeg",
+      "skills": ["JavaScript", "Next.js", "Node.js", "MongoDB", "Express.js"]
+    },
+    {
       "title": "MERN Stack Developer",
       "company": "Craft Funnel",
       "href": "https://craftfunnel.com/",
       "startDate": "08/2024",
       "endDate": "03/2025",
       "description": "As a MERN Stack Developer at Craft Funnel, I worked on building and optimizing web applications using MongoDB, Express.js, React, and Node.js. I was responsible for developing scalable backend APIs, integrating third-party services, and enhancing frontend user experiences. My role also involved database management, performance optimization, and collaborating with cross-functional teams to deliver high-quality software solutions.",
-      "logo": "https://i.ibb.co.com/HpCkdD65/Screenshot-2025-03-30-at-3-48-59-AM.png",
+      "logo": "/craftfunnel.png",
       "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express.js"]
     },
     {
