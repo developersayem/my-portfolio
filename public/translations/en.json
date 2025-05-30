@@ -51,7 +51,7 @@
       "description": "As a MERN Stack Developer at Craft Funnel, I worked on building and optimizing web applications using MongoDB, Express.js, React, and Node.js. I was responsible for developing scalable backend APIs, integrating third-party services, and enhancing frontend user experiences. My role also involved database management, performance optimization, and collaborating with cross-functional teams to deliver high-quality software solutions.",
       "logo": "/craftfunnel.png",
       "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express.js"]
-    },
+    }
   ],
   "courses": [
     {
