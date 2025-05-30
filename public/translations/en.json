@@ -15,7 +15,7 @@
   },
   "experiences": [
     {
-      "title": "MERN Stack Developer (Part-time)",
+      "title": "Front End Developer (Part-time)",
       "company": "CyberLoom IT",
       "href": "https://www.cyberloomittechnologies.com",
       "startDate": "04/2025",
@@ -52,16 +52,6 @@
       "logo": "/craftfunnel.png",
       "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express.js"]
     },
-    {
-      "title": "MERN Stack Developer",
-      "company": "Freelancer",
-      "href": "",
-      "startDate": "10/2023",
-      "endDate": "06/2024",
-      "description": "As a freelancer MERN stack developer, I built and optimized full-stack web applications using MongoDB, Express.js, React, and Node.js. I collaborated with clients to develop scalable and user-friendly solutions, ensuring high performance and seamless user experiences. My work included API development, database management, and responsive UI design.",
-      "logo": "https://www.kindpng.com/picc/m/0-3478_freelancer-logo-freelancer-com-logo-png-transparent-png.png",
-      "skills": ["MongoDB", "Express.js", "React", "Node.js", "Next.js"]
-    }
   ],
   "courses": [
     {
